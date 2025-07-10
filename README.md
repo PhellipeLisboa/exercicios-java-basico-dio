@@ -6,3 +6,4 @@
 - [Estruturas de controle](src/estruturasDeControle)
 - [Classes e encapsulamento](src/classesEEncapsulamento)
 - [Herança e polimorfismo](src/herancaEPolimorfismo)
+- [Interfaces e lambda](src/interfacesELambda)
